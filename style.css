@@ -82,9 +82,6 @@ body{
 
 
 
-.navigation h3{
-    padding: 1rem;
-}
 
 .navigation-item{
     padding: 1rem;
@@ -200,5 +197,9 @@ body{
 
     .layout-card{
         padding:1rem;
+    }
+
+    html{
+        font-size: 20px;
     }
   }
