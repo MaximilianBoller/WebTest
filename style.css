@@ -54,6 +54,7 @@ p{
 
 body{
     background-color: var(--backgroundGray);
+    font-size: 18px;
 
 }
 .background{
