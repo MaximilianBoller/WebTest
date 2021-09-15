@@ -1,0 +1,15 @@
+*{
+    border: blue solid 2px;
+}
+
+h1{
+    border: red solid 2px;
+}
+
+h3{
+    border: green solid 2px;
+}
+
+p{
+    border: yellow solid 2px;
+}

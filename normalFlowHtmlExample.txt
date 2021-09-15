@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang = en>
+
+    <head>
+        <link rel="stylesheet" type="text/css" href="normalFlowExampleStyle.css">
+    </head>
+
+    <body>
+        <h1>
+            Header
+        </h1>
+
+        <h3>
+            Subheader
+        </h3>
+
+        <p>
+            Paragraph
+        </p>
+    </body>
+
+</html>
